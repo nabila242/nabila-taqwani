@@ -64,9 +64,11 @@ http://127.0.0.1:8000/book
 ```
 
 ### Struktur Fitur
-•	/book → menampilkan data buku 
-•	/book/create → tambah data 
-•	/book/1/edit → edit data
+```blash
+/book → menampilkan data buku 
+/book/create → tambah data 
+/book/1/edit → edit data
+```
 
 ### Author 
 Nama : Nabila Taqwani
