@@ -25,7 +25,9 @@ D. Teknologi yang Digunakan
 
 E. Instalasi
  1. clone repository: 
+```blash
 git clone https://github.com/nabila242/nabila-taqwani.git
+```
  2.	Masuk ke folder project: 
 cd nabila-taqwani
  3.	Install dependency: 
